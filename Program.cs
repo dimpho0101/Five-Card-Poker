@@ -39,7 +39,7 @@ namespace fivecard
             }
             else
             {
-                view.DisplayMessage("Welcome back");
+                view.DisplayMessage("Welcome back!");
             }
 
 
