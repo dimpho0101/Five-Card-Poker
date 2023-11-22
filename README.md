@@ -15,7 +15,8 @@ Console Interface: The entire interaction with the application is done through t
 Built with C#, Dapper, and SQL Server: The application is developed using the C# programming language. Dapper, a simple object mapper for .NET and SQL Server, is employed for data access and management.
 
 ## Prerequisites
-.NET SDK
+.NET SDK 
+
 SQL Server
 
 ##Getting Started
