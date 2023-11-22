@@ -34,4 +34,4 @@ Configure the database connection string in the application.
 Build and run the application.
 
 ## Database Schema
-The application utilizes a SQL Server database to store and manage game-related data. The database schema includes tables for players, hands, and game history.
+The application utilizes a SQL Server database to store and manage game-related data. The database schema includes tables for players, and game history.
