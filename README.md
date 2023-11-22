@@ -35,3 +35,5 @@ Build and run the application.
 
 ## Database Schema
 The application utilizes a SQL Server database to store and manage game-related data. The database schema includes tables for players, and game history.
+
+To simply view the project files, please navigate to the master branch.
