@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "fivecard": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "connectionString": "Data Source=DESKTOP-UD9SI2T;Integrated Security=True;Trust Server Certificate=True"
+      }
+    }
+  }
+}
